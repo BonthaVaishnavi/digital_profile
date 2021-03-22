@@ -22,5 +22,5 @@
   Content column 1 | Content column 2
 
 
-:+1: :sparkler: : camel: : tada:
-:india: :metal: :octocat:
+:+1: :sparkler: :camel: :tada:
+:india: :sparkles: :metal: :metal: :octocat:
